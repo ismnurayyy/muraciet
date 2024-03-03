@@ -21,6 +21,9 @@ th{
 td{
     background-color: #F1F5A8;
 }
+hr{
+    background-color: chartreuse;
+}
     </style>
 </head>
 <body bgcolor="#12372A" style="text-align: center;">
@@ -158,5 +161,10 @@ td{
             
         </tbody>
     </table>
+    <hr size="3">
+    <hr size="3">
+    <h1 style="text-align: center;">Bizim Haqqımızda</h1>
+    <iframe width="700" height="500" src="https://www.youtube.com/embed/nMgD_X0Cgg8">
+    </iframe>
 </body>
 </html>
